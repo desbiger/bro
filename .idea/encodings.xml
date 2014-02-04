@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/application/classes/Controller/Welcome.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/application/classes/Model/Car.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/iblock/classes/Controller/Admin/Section.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/iblock/views/admin/breadcrumbs.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/iblock/views/admin/v_section_add_form.php" charset="UTF-8" />
+  </component>
+</project>
+

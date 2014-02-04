@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="19907741-d045-44a6-88fc-4c19d42ae92e" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+    </list>
+    <ignored path="my_shop_CMS.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="my_shop_CMS" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="File.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/classes/Model/File.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="13" column="9" selection-start="184" selection-end="184" vertical-scroll-proportion="-11.7" vertical-offset="0" max-vertical-offset="567">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="6" selection-start="19" selection-end="19" vertical-scroll-proportion="0.06" vertical-offset="0" max-vertical-offset="900">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="init.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/iblock/init.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="12" column="15" selection-start="428" selection-end="428" vertical-scroll-proportion="-10.8" vertical-offset="0" max-vertical-offset="486">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Login.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Controller/Admin/Login.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="56" column="17" selection-start="1237" selection-end="1237" vertical-scroll-proportion="-19.1" vertical-offset="939" max-vertical-offset="1809">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Infoblock.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Controller/Admin/Infoblock.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="138" column="46" selection-start="3919" selection-end="3919" vertical-scroll-proportion="-12.8" vertical-offset="3342" max-vertical-offset="4239">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/modules/iblock/classes/Kohana/breadcrumbs.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/classes/breadcrumbs.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/classes/Kohana/IblockElement.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/classes/Model/lProperty.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/classes/Kohana/IblockSection.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/infoblocks_table.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/elements_detail_table.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/main.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/v_form_element_add.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/v_iblock_add.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/v_section_add_form.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/v_section_edit_form.php" />
+        <option value="$PROJECT_DIR$/application/classes/Controller/Admin/Main.php" />
+        <option value="$PROJECT_DIR$/application/classes/Controller/Admin/Element.php" />
+        <option value="$PROJECT_DIR$/application/classes/Controller/Admin/Section.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/breadcrumbs.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/elements_table.php" />
+        <option value="$PROJECT_DIR$/application/classes/Controller/Admin/Infoblock.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/classes/Iblock.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/classes/Model/Iblock.php" />
+        <option value="$PROJECT_DIR$/application/views/admin/v_iblock_edit.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/classes/Controller/Admin/Section.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/classes/Model/Propertytype.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/views/admin/breadcrumbs.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/views/admin/v_section_add_form.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/views/admin/property_types/1.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/classes/Model/PropertyValue.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/classes/Model/PropertyType.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/classes/Model/PropertyGroup.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/classes/Kohana/Iblock.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/classes/Model/Property.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/views/admin/v_iblock_edit.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/views/admin/v_form_element_add.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/classes/Model/Section.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/views/admin/elements_detail_table.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/views/admin/propertyTypes/6.php" />
+        <option value="$PROJECT_DIR$/application/bootstrap.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/classes/Kohana/IblockElementProperty.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/classes/Controller/Admin/Element.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/classes/Controller/Admin/Main.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/classes/Kohana/Breadcrumbs.php" />
+        <option value="$PROJECT_DIR$/application/classes/Model/123/Car.php" />
+        <option value="$PROJECT_DIR$/application/classes/Model/Car.php" />
+        <option value="$PROJECT_DIR$/application/views/test.php" />
+        <option value="$PROJECT_DIR$/application/classes/Controller/Welcome.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/.gitignore" />
+        <option value="$PROJECT_DIR$/application/classes/Model/File.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/init.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/classes/Controller/Admin/Login.php" />
+        <option value="$PROJECT_DIR$/modules/iblock/classes/Controller/Admin/Infoblock.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_shop_CMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_shop_CMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="my_shop_CMS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GIT\my_shop_CMS\modules\iblock\views\admin" />
+      <recent name="D:\GIT\my_shop_CMS\modules\iblock\views\admin\propertyTypes" />
+      <recent name="D:\GIT\my_shop_CMS\modules\iblock\views\admin\property_types" />
+      <recent name="D:\GIT\my_shop_CMS\modules\iblock\classes\Model" />
+      <recent name="D:\GIT\my_shop_CMS\application\views\admin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GIT\my_shop_CMS\application\classes\Model" />
+      <recent name="D:\GIT\my_shop_CMS\application\classes\Model\123" />
+      <recent name="D:\GIT\my_shop_CMS\modules\iblock\classes\Model" />
+      <recent name="D:\GIT\my_shop_CMS\modules\iblock" />
+      <recent name="D:\GIT\my_shop_CMS\modules\iblock\classes\Views" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server" server_id="97e80b5c-3bcc-433b-ab31-a7187a0864d2" server_name="shop rustrade">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19907741-d045-44a6-88fc-4c19d42ae92e" name="Default" comment="" />
+      <created>1387791139285</created>
+      <updated>1387791139285</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3257821" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29765707" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19595315" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32901832" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USERS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <option name="SHOW_DIRTY_RECURSIVELY" value="true" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Controller/Admin/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="39" selection-start="892" selection-end="892" vertical-scroll-proportion="0.0" vertical-offset="1161" max-vertical-offset="1809">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/IblockElement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="36" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="324" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Kohana/IblockElement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="53" selection-start="372" selection-end="372" vertical-scroll-proportion="0.5275862" vertical-offset="0" max-vertical-offset="2106" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/views/admin/infoblocks_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="39" selection-start="768" selection-end="768" vertical-scroll-proportion="0.62068963" vertical-offset="0" max-vertical-offset="972" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/views/admin/v_iblock_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="37" selection-start="631" selection-end="631" vertical-scroll-proportion="0.7137931" vertical-offset="81" max-vertical-offset="1782" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/views/admin/v_section_edit_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="31" selection-start="329" selection-end="329" vertical-scroll-proportion="-8.1" vertical-offset="0" max-vertical-offset="1269" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/views/admin/elements_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="120" selection-start="532" selection-end="532" vertical-scroll-proportion="-9.0" vertical-offset="0" max-vertical-offset="2403" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/classes/Model/Element.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="1" selection-start="234" selection-end="234" vertical-scroll-proportion="0.5275862" vertical-offset="0" max-vertical-offset="870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Controller/Admin/Section.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="45" selection-start="2547" selection-end="2547" vertical-scroll-proportion="-15.5" vertical-offset="1803" max-vertical-offset="2700" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Model/Iblock.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="17" selection-start="262" selection-end="262" vertical-scroll-proportion="-8.1" vertical-offset="0" max-vertical-offset="486" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/views/admin/breadcrumbs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="338" selection-end="338" vertical-scroll-proportion="-8.1" vertical-offset="0" max-vertical-offset="405" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Iblock.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="10" selection-start="11" selection-end="11" vertical-scroll-proportion="0.062068965" vertical-offset="0" max-vertical-offset="870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/views/admin/v_section_add_form.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="4" selection-start="170" selection-end="170" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="972" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/views/admin/propertyTypes/2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="1" selection-start="35" selection-end="35" vertical-scroll-proportion="-0.9" vertical-offset="0" max-vertical-offset="189" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/explode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/views/admin/propertyTypes/3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/views/admin/propertyTypes/5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="34" selection-end="34" vertical-scroll-proportion="-0.9" vertical-offset="0" max-vertical-offset="189" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Model/PropertyType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="279" selection-end="279" vertical-scroll-proportion="0.34696263" vertical-offset="0" max-vertical-offset="856" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Model/File.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="27" selection-start="409" selection-end="409" vertical-scroll-proportion="0.44859812" vertical-offset="210" max-vertical-offset="1080" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Model/PropertyGroup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="10" selection-start="282" selection-end="282" vertical-scroll-proportion="0.11682243" vertical-offset="170" max-vertical-offset="1026" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/views/admin/v_iblock_edit_OLD.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="886" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Model/Section.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="0" selection-start="1051" selection-end="1051" vertical-scroll-proportion="-18.2" vertical-offset="615" max-vertical-offset="1458" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/views/admin/propertyTypes/4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="856" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/IblockElementProperty.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="57" selection-start="58" selection-end="58" vertical-scroll-proportion="0.06323185" vertical-offset="0" max-vertical-offset="854" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/views/admin/v_iblock_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="29" selection-start="387" selection-end="387" vertical-scroll-proportion="-0.89892983" vertical-offset="1134" max-vertical-offset="4806" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/views/admin/v_form_element_add.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="0" selection-start="1123" selection-end="1231" vertical-scroll-proportion="0.70630205" vertical-offset="567" max-vertical-offset="2862" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/views/admin/propertyTypes/6.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="35" selection-start="696" selection-end="696" vertical-scroll-proportion="0.5690867" vertical-offset="0" max-vertical-offset="854" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/views/admin/propertyTypes/1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="1" selection-start="35" selection-end="35" vertical-scroll-proportion="0.031615924" vertical-offset="0" max-vertical-offset="854" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/views/admin/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="0" selection-start="2367" selection-end="2367" vertical-scroll-proportion="0.59043175" vertical-offset="1276" max-vertical-offset="2133" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Controller/Admin/Base.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="24" selection-start="176" selection-end="176" vertical-scroll-proportion="0.18620689" vertical-offset="0" max-vertical-offset="870">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/views/admin/left_menu.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="302" selection-end="302" vertical-scroll-proportion="0.18620689" vertical-offset="0" max-vertical-offset="870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Model/PropertyValue.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="49" selection-start="132" selection-end="147" vertical-scroll-proportion="0.12413793" vertical-offset="0" max-vertical-offset="870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Model/Element.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="35" selection-start="94" selection-end="94" vertical-scroll-proportion="0.062068965" vertical-offset="0" max-vertical-offset="870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Kohana/Iblock.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="68" column="0" selection-start="1420" selection-end="1420" vertical-scroll-proportion="-14.6" vertical-offset="1398" max-vertical-offset="2268" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Kohana/IblockElementProperty.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="0" selection-start="2024" selection-end="2024" vertical-scroll-proportion="-15.3" vertical-offset="1836" max-vertical-offset="3564" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Controller/Admin/Element.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="113" column="55" selection-start="3851" selection-end="3851" vertical-scroll-proportion="-14.433333" vertical-offset="2618" max-vertical-offset="5454" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/views/admin/elements_detail_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="91" column="30" selection-start="2630" selection-end="2630" vertical-scroll-proportion="0.31034482" vertical-offset="2187" max-vertical-offset="3402" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/bootstrap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="143" column="0" selection-start="4515" selection-end="4515" vertical-scroll-proportion="0.6275862" vertical-offset="1722" max-vertical-offset="2592" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Kohana/IblockSection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="31" selection-start="169" selection-end="169" vertical-scroll-proportion="-0.12413793" vertical-offset="324" max-vertical-offset="2322" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Controller/Admin/Main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="47" selection-start="972" selection-end="972" vertical-scroll-proportion="-17.3" vertical-offset="291" max-vertical-offset="1404" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Model/Property.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="18" selection-start="413" selection-end="413" vertical-scroll-proportion="-13.5" vertical-offset="0" max-vertical-offset="756" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Breadcrumbs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="1" selection-start="58" selection-end="58" vertical-scroll-proportion="0.18620689" vertical-offset="0" max-vertical-offset="870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Kohana/Breadcrumbs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="0" selection-start="254" selection-end="254" vertical-scroll-proportion="0.37241378" vertical-offset="0" max-vertical-offset="891" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/classes/Controller/Welcome.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="363" selection-end="363" vertical-scroll-proportion="0.4413793" vertical-offset="48" max-vertical-offset="918" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="46" selection-start="124" selection-end="124" vertical-scroll-proportion="0.24827586" vertical-offset="0" max-vertical-offset="870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/classes/Model/Car.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="5" selection-start="93" selection-end="93" vertical-scroll-proportion="0.093103446" vertical-offset="0" max-vertical-offset="870" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/classes/Model/File.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="9" selection-start="184" selection-end="184" vertical-scroll-proportion="-11.7" vertical-offset="0" max-vertical-offset="567">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/init.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="15" selection-start="428" selection-end="428" vertical-scroll-proportion="-10.8" vertical-offset="0" max-vertical-offset="486">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Controller/Admin/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="17" selection-start="1237" selection-end="1237" vertical-scroll-proportion="-19.1" vertical-offset="939" max-vertical-offset="1809">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/iblock/classes/Controller/Admin/Infoblock.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="138" column="46" selection-start="3919" selection-end="3919" vertical-scroll-proportion="-12.8" vertical-offset="3342" max-vertical-offset="4239">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="6" selection-start="19" selection-end="19" vertical-scroll-proportion="0.06" vertical-offset="0" max-vertical-offset="900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
